@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 💫 About Me:
 Passionate recent Data Science graduate with a focus on machine learning and data analysis, eager to leverage educational expertise to drive corporate success. <br>Proficient in data exploration, mining, EDA, statistical analysis, and visualization techniques. Seeking opportunities to apply leadership, problem-solving, and <br>decision-making skills to contribute effectively in a corporate setting.
