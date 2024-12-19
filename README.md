@@ -1,6 +1,6 @@
 ![Banner]([https://media.licdn.com/dms/image/v2/D5616AQGc15PiP21aMA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704729473950?e=1730937600&v=beta&t=s1GBASfC9o1AJNxCWR2JuiG9B--rUs0VqRse1GhtkrY](https://media.licdn.com/dms/image/v2/D5616AQGc15PiP21aMA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704729473950?e=1740009600&v=beta&t=6ruWYrK8Z-Q1Ji6i71h61O41XQ93CgCTlhkbpyOjEMA))
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nytimes.com%2F2020%2F01%2F01%2Ftechnology%2Fpersonaltech%2Ftech-trends-2020.html&psig=AOvVaw1qfEYfhZAtW1znMEr_Jbi3&ust=1734689585767000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCMiBvLfMs4oDFQAAAAAdAAAAABCAAQ">
+<img align="right" alt="Coding" width="400" src="https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-articleLarge.gif?quality=75&auto=webp&disable=upscale">
 
 # 💫 About Me:
 Passionate recent Data Science graduate with a focus on machine learning and data analysis, eager to leverage educational expertise to drive corporate success. <br>Proficient in data exploration, mining, EDA, statistical analysis, and visualization techniques. Seeking opportunities to apply leadership, problem-solving, and <br>decision-making skills to contribute effectively in a corporate setting.
